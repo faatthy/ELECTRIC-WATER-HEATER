@@ -64,3 +64,19 @@ be reflected on the LCD displays.
 1. If the “Heating Element” is ON, the “Heating Element Led” should blink every 1 
 second.
 2. If the “Cooling Element” is ON, the “Heating Element Led” should be ON.
+
+   # SOFTWARE
+   1. Eclips SDK
+   2. protous simulation
+
+
+# HARDWARE
+1. 24C08 EEPROM, or use the internal.
+2. Temp sensor (LM35, or equivalent DS18B20).
+3. Cooling Element (Peltier).
+4. Heating Element (3d ceramic heater).
+5. 7-segments.
+6. LEDs.
+7. Push Buttons.
+8. Solid State Relays.
+9. Cooling fins & fans.
