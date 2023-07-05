@@ -1,0 +1,13 @@
+/*
+ * COOLING_ELEMENT_priv.h
+ *
+ *  Created on: Jul 5, 2023
+ *      Author: fathy
+ */
+
+#ifndef HAL_COOLING_ELEMENT_COOLING_ELEMENT_PRIV_H_
+#define HAL_COOLING_ELEMENT_COOLING_ELEMENT_PRIV_H_
+
+
+
+#endif /* HAL_COOLING_ELEMENT_COOLING_ELEMENT_PRIV_H_ */

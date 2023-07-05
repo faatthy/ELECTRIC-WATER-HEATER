@@ -1,0 +1,13 @@
+/*
+ * HEATING_ELEMENT_priv.h
+ *
+ *  Created on: Jul 5, 2023
+ *      Author: fathy
+ */
+
+#ifndef HAL_HEATING_ELEMENT_HEATING_ELEMENT_PRIV_H_
+#define HAL_HEATING_ELEMENT_HEATING_ELEMENT_PRIV_H_
+
+
+
+#endif /* HAL_HEATING_ELEMENT_HEATING_ELEMENT_PRIV_H_ */
