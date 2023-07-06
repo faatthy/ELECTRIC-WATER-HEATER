@@ -1,7 +1,7 @@
 # ELECTRIC-WATER-HEATER
 
 
-# Project Design
+# Project Design    
 ![Untitled](https://user-images.githubusercontent.com/94634728/232644837-a6e7be5d-774d-439d-983c-25d34a684d0e.jpg)
 
 # Project Flowchart
