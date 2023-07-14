@@ -80,4 +80,5 @@ second.
 7. Push Buttons.
 8. Solid State Relays.
 9. Cooling fins & fans.
+   
 ![image](https://github.com/faatthy/ELECTRIC-WATER-HEATER/assets/110846097/82cbdf08-5d2c-4331-b1fa-3527b79e4137)
